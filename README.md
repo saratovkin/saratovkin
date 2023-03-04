@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, my name is Artur 👾
 
-<!--
-**saratovkin/saratovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm 25 y.o. front-end developer. I am very sociable and enjoy working with people. 
+ 
+ Ready to join a team and participate in the development process.
 
-Here are some ideas to get you started:
+## ⭐ Some of My projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [PMApp](https://github.com/alexpataman/project-management-app). React team project.
+- [RSLang](https://github.com/BlackBerryID/rslang). React team project.
+- [Museum](https://github.com/saratovkin/louvre-museum). RWD, HTML/CSS/JS. Solo project.
+- [ArtQuiz](https://github.com/saratovkin/react-art-quiz). React solo project. WIP.
+
+## 📱 Contacts
+- +48 733 420 532
+- artur.saratovkin@gmail.com
+- tg: @saratovkin
