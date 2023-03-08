@@ -10,7 +10,8 @@
 - [PMApp](https://github.com/alexpataman/project-management-app). React, Redux, TS. Team project.
 - [RSLang](https://github.com/BlackBerryID/rslang). React, Redux, TS. Team project.
 - [Museum](https://github.com/saratovkin/louvre-museum). RWD, HTML/CSS/JS. Solo project.
-- [CTD](https://saratovkin.github.io/christmas-tree/). TS, OOP, HTML Templates. Solo project.
+- [Momentum](https://github.com/saratovkin/momentum). Third party APIs, basics of async JS. Solo project.
+- [CTD](https://github.com/saratovkin/christmas-tree). TS, OOP, HTML Templates. Solo project.
 - [ArtQuiz](https://github.com/saratovkin/react-art-quiz). React, Redux, TS. Solo project. WIP.
 
 ## 🥷 Codewars
