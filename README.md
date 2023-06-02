@@ -3,7 +3,6 @@
 ## 👾 All about Me 
 
  I'm 25 y.o. front-end developer from Belarus. I have a passion for programming, enjoy writing code and always try to improve my skills. I am very  sociable and enjoy working with people. 
- Ready to join a team and participate in the development process.
 
 ## ⭐  Some of My projects:
 
